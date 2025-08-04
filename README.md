@@ -56,4 +56,3 @@ In today’s health-conscious world, most individuals lack access to personalize
 * AI-generated grocery lists & meal prep schedules
 * Health goal tracking with adaptive planning
 * Nutrition education modules
-Let me know if you want a `requirements.txt`, frontend demo layout, or deployment instructions added to this.
